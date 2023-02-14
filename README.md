@@ -34,5 +34,7 @@
               
               others: [Git, Github, Linux, TouchTyping, Figma]
           }     
+          
+          let Message = "You're welcome to use my code."
 
 ```
