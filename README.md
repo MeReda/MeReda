@@ -28,7 +28,10 @@
           
           let Skills = {
 
-              frontEnd : [HTML5, CSS3, JavaScript, Bootstrap5, Sass, React],
+              frontEnd : [
+                      languages: [HTML5, CSS3, JavaScript],
+                      frameworks: [Bootstrap5, Sass, React]
+              ],
               
               backEnd : [Php, MySQL, MongoDB, Laravel, Python],
               
