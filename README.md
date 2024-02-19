@@ -30,7 +30,7 @@
 
               frontEnd : [
                       languages: [HTML5, CSS3, JavaScript],
-                      frameworks: [Bootstrap5, Sass, React]
+                      frameworks: [Bootstrap5, Sass, React, nextjs]
               ],
               
               backEnd : [Php, MySQL, MongoDB, Laravel, Python],
