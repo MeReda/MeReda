@@ -29,9 +29,9 @@
               
               backEnd : [Php, MySQL, MongoDB, Laravel, Python],
               
-              others: [Git, Github, Linux, TouchTyping, Figma]
+              others: [Git, Linux, TouchTyping, Figma, UML, Docker]
           }     
           
-          let Message = "You're FREE to use my code."
+          let Message = "Feel free to use my code."
 
 ```
